@@ -41,6 +41,7 @@ params:
 
     label:
         text: "Home"
+        url: /
 
     profileMode:
         enabled: false # needs to be explicitly set
